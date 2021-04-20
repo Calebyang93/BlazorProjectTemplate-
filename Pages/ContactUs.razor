@@ -1,0 +1,20 @@
+@page "/ContactUs"
+
+<h1>Contact Us </h1>
+
+<p>Our Address is 5 Pizza valley and we can be reached via email at codingtips@pizzacode.sg. </p>
+<p> Enter your coding quries: <input type="text" bind=@practiceType /></p>
+<p><b>Submission Status</b></p>
+You have entered this query: @practiceType <br/>
+Try Blazor: @(codeSubmission ? "Yes" : "No") 
+
+@functions {
+    void ButtonClicked() 
+    {
+        Console.WriteLine("Button has been clicked");
+    }
+}
+@code {
+    public string practiceType { get; set; }
+    public Boolean codeSubmission {get; set;}
+}
