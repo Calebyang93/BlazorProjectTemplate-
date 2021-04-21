@@ -1,0 +1,33 @@
+@page "/Timetester"  
+  
+    @using System.Threading;  
+      
+    <h3>Manually Trigger UI Refresh</h3>  
+  
+    Time Tester Counter: @CurrentCount  
+    <br />  
+    <br />  
+    <button onclick="Countdown">Start Countdown</button>  
+
+    @code {
+    public int CurrentCount = 0;
+}
+@functions {  
+     
+    void Countdown()  
+    {  
+        var timer = new Timer(TimeCallBack, null, 1000, 1000);  
+  
+    }  
+  
+    void TimeCallBack(object state)  
+    {  
+        if (CurrentCount > 0)  
+        {  
+            CurrentCount--;  
+  
+            // Note:following line is necessary because Blazor would not recognize the state change hence not refresh the UI  
+            this.StateHasChanged();  
+        }  
+    }  
+}  

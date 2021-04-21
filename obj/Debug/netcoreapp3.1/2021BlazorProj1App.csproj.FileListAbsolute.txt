@@ -50,3 +50,5 @@ C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\2021B
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\2021BlazorProj1App.csproj.CopyComplete
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ContactUs.razor.g.cs
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\ContactUs.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Timetester.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Timetester.razor.g.cs
