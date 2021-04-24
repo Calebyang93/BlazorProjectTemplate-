@@ -45,6 +45,72 @@
         }
       },
       {
+        "HashCode": 816313533,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.ContactUs",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ContactUs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs"
+        }
+      },
+      {
+        "HashCode": -1929496567,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.ContactUs",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.ContactUs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1427539941,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Counter",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 1877134329,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Counter",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1812997144,
         "Kind": "Components.Component",
         "Name": "_2021BlazorProj1App.Pages.FetchData",
@@ -107,125 +173,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "_2021BlazorProj1App.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1427539941,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Counter",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1877134329,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Counter",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_2021BlazorProj1App.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 816313533,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.ContactUs",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ContactUs"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs"
-        }
-      },
-      {
-        "HashCode": -1929496567,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.ContactUs",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_2021BlazorProj1App.Pages.ContactUs"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1109914784,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Shared.SurveyPrompt",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1159710636,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Shared.SurveyPrompt",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_2021BlazorProj1App.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -355,6 +302,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "_2021BlazorProj1App.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1109914784,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Shared.SurveyPrompt",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1159710636,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Shared.SurveyPrompt",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14794,8 +14794,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Pages\\timetester.razor",
-      "TargetPath": "Pages\\timetester.razor",
+      "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Pages\\Timetester.razor",
+      "TargetPath": "Pages\\Timetester.razor",
       "FileKind": "component"
     },
     {

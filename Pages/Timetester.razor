@@ -2,21 +2,48 @@
   
     @using System.Threading;  
       
-    <h3>Manually Trigger UI Refresh</h3>  
+    <h3>@TimeHeading</h3>  
   
-    Time Tester Counter: @CurrentCount  
+    Time Tester Counter:   
     <br />  
     <br />  
-    <button onclick="Countdown">Start Countdown</button>  
+
+    <p>
+        <label>
+            <input @bind="TimeToday" />
+        </label> 
+        <button @onclick="CountDown">
+            Start Countdown
+        </button>  
+    </p>
+
+    <p>
+    <label>
+        <input type="checkbox" @onchange="CheckChanged" />
+        @checkedMessage
+    </label>
+    </p>
+    
 
     @code {
-    public int CurrentCount = 0;
+        private string TimeHeading = "The time today is. We will countdown on timer now.";
+        private string Countdown;
+        private string checkedMessage = "The time taken was 1 minute";
+        private DateTime TimeToday = new DateTime(2017, 11, 10, 10,10,30);
+
+        private void CountDown() {
+            TimeHeading = $"{TimeToday}!!!";
+        }
+        private void CheckChanged() {
+            checkedMessage = $"Last changed at {DateTime.Now}";
+        }
+
 }
-@functions {  
+@* @functions {  
      
     void Countdown()  
     {  
-        var timer = new Timer(TimeCallBack, null, 1000, 1000);  
+        var timer = new Timer(TimeCallBack, null, 1000, 1000); 
   
     }  
   
@@ -30,4 +57,4 @@
             this.StateHasChanged();  
         }  
     }  
-}  
+}   *@
