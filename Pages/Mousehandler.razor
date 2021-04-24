@@ -1,0 +1,16 @@
+@page "/MouseHandler"
+
+@for (var i = 0; i < 4; i ++ ) {
+    <p>
+        <button @onclick="CheckPointerLocation">
+            Where is my mouse now?
+        </button>
+    </p>
+}
+<p>@mousePointerMsg1</p>
+@code {
+    private string mousePointerMsg1;
+    private void CheckPointerLocation(MouseEventArgs e) {
+        mousePointerMsg1 = $"Mouse coordinates: {e.ScreenX}: {e.ScreenY}";
+    }
+}

@@ -1,0 +1,11 @@
+@page "/Lambdaexpression"
+<h1>@title</h1>
+<p>
+    <button @onclick="@(e => title = "This is Caleb's lambda tutorials")">
+        Start learning 
+    </button>
+</p>
+
+@code {
+    private string title = "Initial Title ";
+}

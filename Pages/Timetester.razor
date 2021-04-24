@@ -12,8 +12,8 @@
         <label>
             <input @bind="TimeToday" />
         </label> 
-        <button @onclick="CountDown">
-            Start Countdown
+        <button @onclick="ShowTime">
+            Show Time
         </button>  
     </p>
 
@@ -27,11 +27,16 @@
 
     @code {
         private string TimeHeading = "The time today is. We will countdown on timer now.";
-        private string Countdown;
+        private string Showtime;
         private string checkedMessage = "The time taken was 1 minute";
         private DateTime TimeToday = new DateTime(2017, 11, 10, 10,10,30);
 
-        private void CountDown() {
+        @* private void ShowTime() {
+            TimeHeading = $"{TimeToday}!!!";
+        } *@
+
+        private async Task ShowTime() {
+            await Task.Delay(4000);
             TimeHeading = $"{TimeToday}!!!";
         }
         private void CheckChanged() {
@@ -39,22 +44,3 @@
         }
 
 }
-@* @functions {  
-     
-    void Countdown()  
-    {  
-        var timer = new Timer(TimeCallBack, null, 1000, 1000); 
-  
-    }  
-  
-    void TimeCallBack(object state)  
-    {  
-        if (CurrentCount > 0)  
-        {  
-            CurrentCount--;  
-  
-            // Note:following line is necessary because Blazor would not recognize the state change hence not refresh the UI  
-            this.StateHasChanged();  
-        }  
-    }  
-}   *@

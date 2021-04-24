@@ -52,3 +52,9 @@ C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\ContactUs.razor.g.cs
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Timetester.razor.g.cs
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Timetester.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Mousehandler.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Mousehandler.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Lambdaexpression.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Lambdaexpression.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Delegateeventhand.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Delegateeventhand.razor.g.cs
