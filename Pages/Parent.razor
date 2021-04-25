@@ -5,9 +5,9 @@
 <Child Title="Panel Title from Parent" OnClickCallback="@ShowMessage">
     Content of the child component is supplied by the parent component.
 </Child>
-Copy
+Add a sample child. 
 <@ChildComponent 
-    OnClickCallback="@(async () => { await Task.Yield(); messageText = "Blaze It!"; })" />
+    OnClickCallback="@(async () => { await OnClickCallback.InvokeAsync(arg);})" />
 
 <p>@message</p>
 

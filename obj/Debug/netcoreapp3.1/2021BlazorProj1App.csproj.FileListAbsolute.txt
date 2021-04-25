@@ -58,3 +58,12 @@ C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Lambdaexpression.razor.g.cs
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Delegateeventhand.razor.g.cs
 C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Delegateeventhand.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Parent.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Child.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Parent.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Shared\Child.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Preventdefaultaction.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Preventdefaultaction.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Stopeventprop.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\Razor\Pages\Stopeventprop.razor.g.cs
+C:\Users\lenovo\csharpdirectory\2021BlazorProj1App\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Elementfocus.razor.g.cs

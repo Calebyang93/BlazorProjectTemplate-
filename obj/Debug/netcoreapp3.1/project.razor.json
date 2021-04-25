@@ -45,101 +45,35 @@
         }
       },
       {
-        "HashCode": 1812997144,
+        "HashCode": 816313533,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.FetchData",
+        "Name": "_2021BlazorProj1App.Pages.ContactUs",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "ContactUs"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.FetchData"
+          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs"
         }
       },
       {
-        "HashCode": 1121607126,
+        "HashCode": -1929496567,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.FetchData",
+        "Name": "_2021BlazorProj1App.Pages.ContactUs",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "_2021BlazorProj1App.Pages.FetchData"
+            "TagName": "_2021BlazorProj1App.Pages.ContactUs"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 549099354,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Mousehandler",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Mousehandler"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Mousehandler"
-        }
-      },
-      {
-        "HashCode": -833076151,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Mousehandler",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_2021BlazorProj1App.Pages.Mousehandler"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Mousehandler",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -70913740,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Timetester",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Timetester"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Timetester"
-        }
-      },
-      {
-        "HashCode": -79106659,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Timetester",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_2021BlazorProj1App.Pages.Timetester"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Timetester",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -177,68 +111,68 @@
         }
       },
       {
-        "HashCode": 816313533,
+        "HashCode": -1003834569,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.ContactUs",
+        "Name": "_2021BlazorProj1App.Pages.Delegateeventhand",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ContactUs"
+            "TagName": "Delegateeventhand"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs"
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Delegateeventhand"
         }
       },
       {
-        "HashCode": -1929496567,
+        "HashCode": 1255797299,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.ContactUs",
+        "Name": "_2021BlazorProj1App.Pages.Delegateeventhand",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "_2021BlazorProj1App.Pages.ContactUs"
+            "TagName": "_2021BlazorProj1App.Pages.Delegateeventhand"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.ContactUs",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Delegateeventhand",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 420413527,
+        "HashCode": 1812997144,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Parent",
+        "Name": "_2021BlazorProj1App.Pages.FetchData",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Parent"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Parent"
+          "Common.TypeName": "_2021BlazorProj1App.Pages.FetchData"
         }
       },
       {
-        "HashCode": 502754012,
+        "HashCode": 1121607126,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Parent",
+        "Name": "_2021BlazorProj1App.Pages.FetchData",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "_2021BlazorProj1App.Pages.Parent"
+            "TagName": "_2021BlazorProj1App.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Parent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -309,35 +243,342 @@
         }
       },
       {
-        "HashCode": -1003834569,
+        "HashCode": 549099354,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Delegateeventhand",
+        "Name": "_2021BlazorProj1App.Pages.Mousehandler",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Delegateeventhand"
+            "TagName": "Mousehandler"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Delegateeventhand"
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Mousehandler"
         }
       },
       {
-        "HashCode": 1255797299,
+        "HashCode": -833076151,
         "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Pages.Delegateeventhand",
+        "Name": "_2021BlazorProj1App.Pages.Mousehandler",
         "AssemblyName": "2021BlazorProj1App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "_2021BlazorProj1App.Pages.Delegateeventhand"
+            "TagName": "_2021BlazorProj1App.Pages.Mousehandler"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Pages.Delegateeventhand",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Mousehandler",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -70913740,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Timetester",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Timetester"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Timetester"
+        }
+      },
+      {
+        "HashCode": -79106659,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Timetester",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.Timetester"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Timetester",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 420413527,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Parent",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Parent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Parent"
+        }
+      },
+      {
+        "HashCode": 502754012,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Parent",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.Parent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Parent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1994623923,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Preventdefaultaction",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Preventdefaultaction"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Preventdefaultaction"
+        }
+      },
+      {
+        "HashCode": 1014689775,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Preventdefaultaction",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.Preventdefaultaction"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Preventdefaultaction",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1301843153,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Stopeventprop",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Stopeventprop"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Stopeventprop"
+        }
+      },
+      {
+        "HashCode": -351815779,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Stopeventprop",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.Stopeventprop"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Stopeventprop",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2087262285,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Elementfocus",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Elementfocus"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Elementfocus"
+        }
+      },
+      {
+        "HashCode": -2092603600,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Pages.Elementfocus",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Pages.Elementfocus"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Pages.Elementfocus",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -255993783,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Shared.Child",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Child"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "tdyDate",
+            "TypeName": "System.DateTime",
+            "Metadata": {
+              "Common.PropertyName": "tdyDate"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Shared.Child"
+        }
+      },
+      {
+        "HashCode": -1262742861,
+        "Kind": "Components.Component",
+        "Name": "_2021BlazorProj1App.Shared.Child",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_2021BlazorProj1App.Shared.Child"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "tdyDate",
+            "TypeName": "System.DateTime",
+            "Metadata": {
+              "Common.PropertyName": "tdyDate"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "_2021BlazorProj1App.Shared.Child",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 397212345,
+        "Kind": "Components.ChildContent",
+        "Name": "_2021BlazorProj1App.Shared.Child.ChildContent",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Child"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "_2021BlazorProj1App.Shared.Child.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1458599705,
+        "Kind": "Components.ChildContent",
+        "Name": "_2021BlazorProj1App.Shared.Child.ChildContent",
+        "AssemblyName": "2021BlazorProj1App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "_2021BlazorProj1App.Shared.Child"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "_2021BlazorProj1App.Shared.Child.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -487,148 +728,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "_2021BlazorProj1App.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -255993783,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Shared.Child",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Child"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "tdyDate",
-            "TypeName": "System.DateTime",
-            "Metadata": {
-              "Common.PropertyName": "tdyDate"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Shared.Child"
-        }
-      },
-      {
-        "HashCode": -1262742861,
-        "Kind": "Components.Component",
-        "Name": "_2021BlazorProj1App.Shared.Child",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_2021BlazorProj1App.Shared.Child"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "tdyDate",
-            "TypeName": "System.DateTime",
-            "Metadata": {
-              "Common.PropertyName": "tdyDate"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "_2021BlazorProj1App.Shared.Child",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 397212345,
-        "Kind": "Components.ChildContent",
-        "Name": "_2021BlazorProj1App.Shared.Child.ChildContent",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "Child"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "_2021BlazorProj1App.Shared.Child.ChildContent",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -1458599705,
-        "Kind": "Components.ChildContent",
-        "Name": "_2021BlazorProj1App.Shared.Child.ChildContent",
-        "AssemblyName": "2021BlazorProj1App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "_2021BlazorProj1App.Shared.Child"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "_2021BlazorProj1App.Shared.Child.ChildContent",
-          "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15056,6 +15155,11 @@
   "RootNamespace": "_2021BlazorProj1App",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Pages\\Stopeventprop.razor",
+      "TargetPath": "Pages\\Stopeventprop.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
@@ -15063,6 +15167,11 @@
     {
       "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Pages\\Preventdefaultaction.razor",
+      "TargetPath": "Pages\\Preventdefaultaction.razor",
       "FileKind": "component"
     },
     {
@@ -15093,6 +15202,11 @@
     {
       "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Pages\\Mousehandler.razor",
       "TargetPath": "Pages\\Mousehandler.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\lenovo\\csharpdirectory\\2021BlazorProj1App\\Pages\\Elementfocus.razor",
+      "TargetPath": "Pages\\Elementfocus.razor",
       "FileKind": "component"
     },
     {
